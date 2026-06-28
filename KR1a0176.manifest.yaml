@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR1a0176/v1
+canonical_location: https://kanripo.org/bkk/KR1a0176/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 周易莊氏義一卷
+  identifiers:
+    krp: KR1a0176
+  tags:
+    kr-categories: KR1a
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0176.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR1a0176_001.yaml, hash: 'sha256:ac3de881e5c2ba99d3184f951b4603b99cc6872dc1d76ef129da205e78e72741'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1a0176_001.markers.yaml, hash: 'sha256:3d7cbb88953b1fa583d01632cf995f6c793df75d9cf98040315c4592bfa0fe47'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1a0176_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2038
+  label: 周易上經
+  type: section
+  level: 1
+hash: sha256:7d0ddf53c59e302513292814c0ea6a879bb6cbb1b5967966e32dab2ffb79099c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
