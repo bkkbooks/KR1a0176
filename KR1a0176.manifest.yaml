@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1a0176_001.yaml, hash: 'sha256:ac3de881e5c2ba99d3184f951b4603b99cc6872dc1d76ef129da205e78e72741'}
+  - {seq: 1, filename: KR1a0176_001.yaml, hash: 'sha256:0bd491f64f796a4c97a510248da7850f01160b6edf4b11cf98959fd94124d504'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1a0176_001.markers.yaml, hash: 'sha256:3d7cbb88953b1fa583d01632cf995f6c793df75d9cf98040315c4592bfa0fe47'}
+  - {seq: 1, role: markers, filename: assets/KR1a0176_001.markers.yaml, hash: 'sha256:34225fdca2ebd9f4301136505f7a5cea1780561b128301809dcbdbfd561dd783'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 周易上經
   type: section
   level: 1
-hash: sha256:7d0ddf53c59e302513292814c0ea6a879bb6cbb1b5967966e32dab2ffb79099c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a92d329148f57a9fe464895493b7ee24fbb9c38de2a34aedcd6518f306a73b85
